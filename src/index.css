@@ -7,3 +7,11 @@
   margin:0;
   box-sizing:border-box;
 }
+
+button{
+  display: flex;
+  justify-content: center;
+  width:100px;
+  border-radius:8px;
+  margin:auto;
+}
